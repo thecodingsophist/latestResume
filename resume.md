@@ -5,11 +5,6 @@
 <center><span style="font-family:Didot; font-size:1.5em;">Cary, NC, USA
 </span></center><br />
 
-<span style="font-family:Didot; font-size:2em;">Objective</span>
-> Self taught programmer seeking for competitive edge into the software development industry.
-
-
-
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
 - - - -
