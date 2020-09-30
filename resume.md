@@ -6,7 +6,7 @@
 </span></center>
 
 <span style="font-family:Didot; font-size:2em;">Objective</span>
-> Self taught programmer seeking for competitive edge into the software developement industry.
+> Self taught programmer seeking for competitive edge into the software development industry.
 
 
 
@@ -49,13 +49,13 @@
 <br />
 - - - -
 
-   > * Python, Javascript
+   > Python, Javascript
 
 <span style="font-family:Didot; font-size:2em;">Tools/Platforms</span>
 <br />
 - - - -
 
-jupyter notebook, pandas, mongodb, express.js, node.js, heroku, handlebars.js, passport.js, firebase, facebook developer
+> jupyter notebook, pandas, mongodb, express.js, node.js, heroku, handlebars.js, passport.js, firebase, facebook developer
  api, and alexa skills
  
 
