@@ -4,8 +4,7 @@
 <center><span style="font-family:Didot; font-size:1.5em;">Email: ni.zhanxi@gmail.com</span></center><br />
 <center><span style="font-family:Didot; font-size:1.5em;">Cary, NC, USA
 </span></center><br />
-
-
+- - - -
 
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
