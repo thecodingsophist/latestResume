@@ -3,6 +3,8 @@
 <center><span style="font-family:Didot; font-size:1.5em;">Github: https://github.com/thecodingsophist</span></center><br />
 <center><span style="font-family:Didot; font-size:1.5em;">Email: ni.zhanxi@gmail.com</span></center><br />
 
+<br />
+
 <span style="font-family:Didot; font-size:2em;">Education</span>
 <br />
 - - - -
