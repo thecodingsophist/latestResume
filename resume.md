@@ -1,7 +1,7 @@
 
 <center><span style="font-family:Didot; font-size:2.5em;">Zhanxi Ni</span></center><br />
-<center><span style="font-family:Didot; font-size:1.5em;">**Github:**https://github.com/thecodingsophist</span></center><br />
-<center><span style="font-family:Didot; font-size:1.5em;">**Email:**ni.zhanxi@gmail.com</span></center><br />
+<center><span style="font-family:Didot; font-size:1.5em;">Github: https://github.com/thecodingsophist</span></center><br />
+<center><span style="font-family:Didot; font-size:1.5em;">Email: ni.zhanxi@gmail.com</span></center><br />
 <center><span style="font-family:Didot; font-size:1.5em;">Cary, NC, USA
 </span></center><br />
 
@@ -32,16 +32,16 @@
 
 **Upwork Freelancer, Remote**
 **Upwork**        January 2020 - Present
-> *managed customer relations with contractors,
-> *worked on website creation and feature design on a project by project basis,
-> *organized time and projects according to priority and need.
+> managed customer relations with contractors,
+> worked on website creation and feature design on a project by project basis,
+> organized time and projects according to priority and need.
 
 
 **Technical Blog Writer, Remote**
 **Freelance**    January 2020 – Present
-> *compiled information for TripAdvisor API through RapidAPI,
-> *published a full how-to article on how to use the TripAdvisor API with examples of personal code,
-> *wrote personal article on Hash Tables published on Medium which reached a 4k+ audience.
+> compiled information for TripAdvisor API through RapidAPI,
+> published a full how-to article on how to use the TripAdvisor API with examples of personal code,
+> wrote personal article on Hash Tables published on Medium which reached a 4k+ audience.
 
 
 
