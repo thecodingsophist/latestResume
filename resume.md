@@ -1,5 +1,5 @@
 
-<center><span style="font-family:Didot; font-size:2.5em;">**Zhanxi Ni**</span></center><br />
+<center><span style="font-family:Didot; font-size:2.5em;">ZHANXI NI</span></center><br />
 <center><span style="font-family:Didot; font-size:1.5em;">Github: https://github.com/thecodingsophist</span></center><br />
 <center><span style="font-family:Didot; font-size:1.5em;">Email: ni.zhanxi@gmail.com</span></center><br />
 <center><span style="font-family:Didot; font-size:1.5em;">Cary, NC, USA
